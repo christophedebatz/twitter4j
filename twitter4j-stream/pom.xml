@@ -3,7 +3,7 @@
 
     <groupId>org.twitter4j</groupId>
     <artifactId>twitter4j-stream</artifactId>
-    <version>4.0.4</version>
+    <version>4.0.4-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>twitter4j-stream</name>
     <description>A Java library for the Twitter API</description>
@@ -15,13 +15,6 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
-    <scm>
-        <url>https://github.com/yusuke/twitter4j</url>
-        <connection>scm:git:git://github.com/yusuke/twitter4j.git</connection>
-        <developerConnection>scm:gigit://github.com/yusuke/twitter4j.gitit
-        </developerConnection>
-
-  </scm>
     <developers>
         <developer>
             <id>yusuke</id>
